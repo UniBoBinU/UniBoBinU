@@ -1,8 +1,8 @@
 - Name: BoB
 - Interests: Stuff
 - Learning: Lifes a .....
-- Looking tocollaborate on: Half a baby
-- Contact details: Page me
+- Looking to collaborate within you
+- Contact details: Hit me on my beeper
 - Pronoun: Him/It
 - Fun Fact: Im not wearing any socks
 
